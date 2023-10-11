@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "bottomsheet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Delstroo/BottomSheet",
+      "state" : {
+        "branch" : "older/version",
+        "revision" : "ef4f49d32d89135a2345b8f9ed669f4463f5675d"
+      }
+    }
+  ],
+  "version" : 2
+}
